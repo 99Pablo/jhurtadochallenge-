@@ -1,0 +1,6 @@
+memory-profiler==0.61.0
+emoji==2.8.0
+pandas==1.5.3
+pyarrow==13.0.0
+fastparquet==2023.8.0
+ujson==5.8.0
