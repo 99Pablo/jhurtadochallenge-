@@ -1,10 +1,7 @@
-import os
 import pandas as pd
 import ujson as json
 import emoji
 import re
-import cProfile
-import pstats
 from collections import Counter
 from typing import List, Tuple
 from datetime import datetime

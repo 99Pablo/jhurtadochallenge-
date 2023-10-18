@@ -1,14 +1,11 @@
 import os
 import pandas as pd
-import ujson as json
 import emoji
-import re
-import cProfile
-import pstats
+
 from collections import Counter
 from typing import List, Tuple
 from datetime import datetime
-from collections import defaultdict
+
 
 def q1_time(archivo_json: str) -> List[Tuple[datetime.date, str]]:
     # Separar el nombre del archivo y su extensión
